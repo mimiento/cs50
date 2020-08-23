@@ -1,1 +1,1 @@
-# cs50
+# contains assignments completed for CS50
